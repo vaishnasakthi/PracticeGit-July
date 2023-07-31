@@ -1,0 +1,10 @@
+Step 1: Start
+Step 2: Input a Number
+Step 3: if number%400==0:
+		"Leap Year"
+	else if num%100!=0 && num%4==0:
+                "Leap Year"
+	else 
+		"Not a leap year"
+Step 4: Stop
+	    
